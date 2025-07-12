@@ -3,9 +3,13 @@
 
 **📌 Features**
 Trained on 8 key medical features
+
 Web form interface for easy prediction
+
 Uses a Random Forest model with ~76% accuracy
+
 Clean UI using HTML + CSS
+
 End-to-end ML deployment using Flask
 
 **🔍 Technologies Used**
