@@ -36,7 +36,7 @@ Age
 **🚀 How to Run the Project Locally**
 
 1. Clone the Repository
-git clone https://github.com/your-username/diabetes-prediction-flask.git
+git clone https://github.com/Alfiya-AT/Diabetes-Prediction?tab=readme-ov-file
 cd diabetes-prediction-flask
 2. Install Requirements
 pip install -r requirements.txt
