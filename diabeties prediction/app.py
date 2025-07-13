@@ -13,16 +13,6 @@ def hello():
 def predict(): 
     form_data = request.form
 
-    # Extract only the 5 required fields in correct order
-    # A = [
-    #     float(form_data['Glucose']),
-    #     float(form_data['Blood Pressure']),
-    #     float(form_data['Skin Thickness']),
-    #     float(form_data['Insulin']),
-    #     float(form_data['BMI']),
-    #     float(form_data['DiabetesPedigreeFunction']),
-    #     float(form_data['Age'])
-    # ]
     A = [
     float(form_data['Pregnancies']),
     float(form_data['Glucose']),
